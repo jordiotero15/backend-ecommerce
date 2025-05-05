@@ -4,7 +4,7 @@
     "photo": "arroz.jpg",
     "category": "comida",
     "price": 100,
-    "stock": 50,
+    "stock": 10,
     "description": "Arroz blanco",
     "status": true,
     "id": "6e58ed7e3beb0bcbb5d9695b"

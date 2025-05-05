@@ -1,6 +1,5 @@
 import productsManager from "../managers/product.manager.js";
 
-
 async function isValidDataProduct(req, res, next) {
     const { title, photo, category, price, stock, description, status } = req.body;
 
